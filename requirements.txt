@@ -2,3 +2,4 @@ telebot
 vk_api
 requests
 random
+python-dotenv
